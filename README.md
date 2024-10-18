@@ -2,13 +2,13 @@
 
 <p align="left">
   <a href="https://linkedin.com/in/andualem-assefa" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="10" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="70" />
   </a>
   <a href="https://instagram.com/andy2023use" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="10" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="70" />
   </a>
   <a href="mailto:andy2023user@gmail.com" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/email.png" alt="Email" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/email.png" alt="Email" height="30" width="80" />
   </a>
 </p>
 
@@ -77,9 +77,9 @@
 
 <div style="background-color: #1E1E1E; color: white; padding: 20px; border-radius: 15px; border: 2px dashed yellow;">
   <h3 align="center" style="margin: 0;">My GitHub Statistics</h3>
-  <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
-    <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=andu2023&show_icons=true&locale=en&layout=compact" alt="andu2023" /></p>
-    <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=andu2023&show_icons=true&locale=en" alt="andu2023" /></p>
-    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andu2023&" alt="andu2023" /></p>
+  <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; background-color: #000000; color: gray; padding: 10px; border-radius: 10px;">
+    <p style="flex: 1; text-align: center;"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=andu2023&show_icons=true&locale=en&layout=compact" alt="andu2023" /></p>
+    <p style="flex: 1; text-align: center;"><img align="center" src="https://github-readme-stats.vercel.app/api?username=andu2023&show_icons=true&locale=en" alt="andu2023" /></p>
+    <p style="flex: 1; text-align: center;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andu2023&" alt="andu2023" /></p>
   </div>
 </div>
