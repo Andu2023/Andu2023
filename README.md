@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andualem Assefa</h1>
-<h3 align="center" style="font-family: Arial, sans-serif; font-weight: bold;">
-  I'm a Full Stack Developer with a passion for building scalable, efficient,<br> and user-friendly applications using a range of technologies.
+<h3 style="font-family: Arial, sans-serif; font-weight: bold; text-align: center; margin-left: 0; margin-right: 0;">
+  I'm a Full Stack Developer with a passion for building scalable, efficient,<br> 
+  and user-friendly applications using a range of technologies.
 </h3>
 
 - 🔭 I’m currently working on **Inventory-management-system**
