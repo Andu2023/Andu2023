@@ -1,14 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andualem Assefa</h1>
 
-<p align="left" style="display: flex; gap: 10px;"> <!-- Flexbox for spacing -->
-  <a href="https://linkedin.com/in/andualem-assefa" target="blank" style="width: 1500px; display: flex; justify-content: center;">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andualem-assefa" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/andy2023use" target="blank" style="width: 90px; display: flex; justify-content: center;">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="andy2023use" height="30" width="40" />
-  </a>
-</p
-
 
 <h3 style="font-family: Arial, sans-serif; font-weight: bold; text-align: center; margin-left: 0; margin-right: 0;">
   I'm a Full Stack Developer with a passion for building scalable, efficient,<br> 
@@ -19,6 +10,11 @@
 - I’m available for freelancing <br>
 - 💬 Ask me about **ASP.NET Core, Angular, React** <br>
 - 📫 How to reach me: **andy2023user@gmail.com**
+  <h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/andualem-assefa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andualem-assefa" height="30" width="40" /></a>
+<a href="https://instagram.com/andy2023use" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="andy2023use" height="30" width="40" /></a>
+</p>
 
 <h3 align="left">Professional skills:</h3>
 
@@ -75,10 +71,9 @@
 
 <div style="background-color: #1E1E1E; color: white; padding: 20px; border-radius: 15px; border: 2px dashed yellow;">
   <h3 align="center" style="margin: 0;">My GitHub Statistics</h3>
-  <div style="display: flex; justify-content: center; gap: 15px; background-color: #000000; color: gray; padding: 10px; border-radius: 10px;">
-    <div style="display: flex; gap: 15px; flex: 1; text-align: center;">
-        <p style="flex: 1;"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=andu2023&show_icons=true&locale=en&layout=compact" alt="andu2023" /></p>
-        <p style="flex: 1;"><img align="center" src="https://github-readme-stats.vercel.app/api?username=andu2023&show_icons=true&locale=en" alt="andu2023" /></p>
-    </div>
-  </div>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andu2023&show_icons=true&locale=en&layout=compact" alt="andu2023" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andu2023&show_icons=true&locale=en" alt="andu2023" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andu2023&" alt="andu2023" /></p>
 </div>
