@@ -84,7 +84,7 @@
 
 <div style="background-color: #1E1E1E; color: white; padding: 20px; border-radius: 15px; border: 2px dashed yellow;">
   <h3 align="center" style="margin: 0;">My GitHub Statistics</h3>
-  <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; background-color: #000000; color: gray; padding: 10px; border-radius: 10px;">
+  <div style="display: flex; justify-content: center; gap: 15px;  background-color: #000000; color: gray; padding: 10px; border-radius: 10px;">
     <p style="flex: 1; text-align: center;"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=andu2023&show_icons=true&locale=en&layout=compact" alt="andu2023" /></p>
     <p style="flex: 1; text-align: center;"><img align="center" src="https://github-readme-stats.vercel.app/api?username=andu2023&show_icons=true&locale=en" alt="andu2023" /></p>
     <p style="flex: 1; text-align: center;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andu2023&" alt="andu2023" /></p>
