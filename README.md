@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andualem Assefa</h1>
-<h3 align="center">I'm a Full Stack Developer with a passion for building scalable, efficient, and user-friendly applications using a range of technologies.</h3>
+<h3 align="center">I'm a Full Stack Developer with a passion for building scalable, <br> efficient, and user-friendly applications using a range of technologies.</h3>
 
 
 - 🔭 I’m currently working on **Inventory-management-system with**
