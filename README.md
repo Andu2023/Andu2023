@@ -1,24 +1,29 @@
 <h1 align="center">Hi 👋, I'm Andualem Assefa</h1>
-<h3 style="font-family: Arial, sans-serif; font-weight: bold; text-align: center; margin-left: 0; margin-right: 0;">
-  I'm a Full Stack Developer with a passion for building scalable, efficient,<br> 
-  and user-friendly applications using a range of technologies.
-</h3>
 
-- 🔭 I’m currently working on **Inventory-management-system**
-- 💬 Ask me about **ASP.NET Core, Angular, React**
-- 📫 How to reach me: **andy2023user@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/andualem-assefa" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="10" />
   </a>
   <a href="https://instagram.com/andy2023use" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="10" />
+  </a>
+  <a href="mailto:andy2023user@gmail.com" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/email.png" alt="Email" height="30" width="40" />
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 style="font-family: Arial, sans-serif; font-weight: bold; text-align: center; margin-left: 0; margin-right: 0;">
+  I'm a Full Stack Developer with a passion for building scalable, efficient, 
+  and user-friendly applications using a range of technologies.
+</h3>
+
+- Graduated in Software Engineering <br>
+- I’m available for freelancing <br>
+- 💬 Ask me about **ASP.NET Core, Angular, React** <br>
+- 📫 How to reach me: **andy2023user@gmail.com**
+
+<h3 align="left">Professional skills:</h3>
+
 <p align="left">
   <a href="https://angular.io" target="_blank" rel="noreferrer">
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" />
@@ -35,17 +40,12 @@
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" />
   </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
-  </a>
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40" />
   </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" />
   </a>
-</p>
-<p align="left">
   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40" />
   </a>
@@ -75,14 +75,11 @@
   </a>
 </p>
 
-<div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
-  <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andu2023&show_icons=true&locale=en&layout=compact" alt="andu2023" />
-  </p>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=andu2023&show_icons=true&locale=en" alt="andu2023" />
-  </p>
+<div style="background-color: #1E1E1E; color: white; padding: 20px; border-radius: 15px; border: 2px dashed yellow;">
+  <h3 align="center" style="margin: 0;">My GitHub Statistics</h3>
+  <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
+    <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=andu2023&show_icons=true&locale=en&layout=compact" alt="andu2023" /></p>
+    <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=andu2023&show_icons=true&locale=en" alt="andu2023" /></p>
+    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andu2023&" alt="andu2023" /></p>
+  </div>
 </div>
-
-
-
