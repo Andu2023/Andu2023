@@ -1,26 +1,17 @@
 <h1 align="center">Hi 👋, I'm Andualem Assefa</h1>
 
-<p align="left">
-  <a href="https://linkedin.com/in/andualem-assefa" target="_blank">
-    <button style="width: 80px; background-color: #0077B5; color: white; border: none; border-radius: 5px; cursor: pointer;">
-      LinkedIn
-    </button>
+<p align="left" style="display: flex; gap: 10px;"> <!-- Flexbox for spacing -->
+  <a href="https://linkedin.com/in/andualem-assefa" target="blank" style="width: 90px; display: flex; justify-content: center;">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andualem-assefa" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/andy2023use" target="_blank">
-    <button style="width: 80px; background-color: #E1306C; color: white; border: none; border-radius: 5px; cursor: pointer;">
-      Instagram
-    </button>
+  <a href="https://instagram.com/andy2023use" target="blank" style="width: 90px; display: flex; justify-content: center;">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="andy2023use" height="30" width="40" />
   </a>
-  <a href="mailto:andy2023user@gmail.com" target="_blank">
-    <button style="width: 80px; background-color: #D14836; color: white; border: none; border-radius: 5px; cursor: pointer;">
-      Email
-    </button>
-  </a>
-</p>
+</p
 
 
 <h3 style="font-family: Arial, sans-serif; font-weight: bold; text-align: center; margin-left: 0; margin-right: 0;">
-  I'm a Full Stack Developer with a passion for building scalable, efficient, 
+  I'm a Full Stack Developer with a passion for building scalable, efficient,<br> 
   and user-friendly applications using a range of technologies.
 </h3>
 
@@ -84,9 +75,12 @@
 
 <div style="background-color: #1E1E1E; color: white; padding: 20px; border-radius: 15px; border: 2px dashed yellow;">
   <h3 align="center" style="margin: 0;">My GitHub Statistics</h3>
-  <div style="display: flex; justify-content: center; gap: 15px;  background-color: #000000; color: gray; padding: 10px; border-radius: 10px;">
-    <p style="flex: 1; text-align: center;"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=andu2023&show_icons=true&locale=en&layout=compact" alt="andu2023" /></p>
-    <p style="flex: 1; text-align: center;"><img align="center" src="https://github-readme-stats.vercel.app/api?username=andu2023&show_icons=true&locale=en" alt="andu2023" /></p>
+  <div style="display: flex; justify-content: center; gap: 15px; background-color: #000000; color: gray; padding: 10px; border-radius: 10px;">
+    <div style="display: flex; gap: 15px; flex: 1; text-align: center;">
+        <p style="flex: 1;"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=andu2023&show_icons=true&locale=en&layout=compact" alt="andu2023" /></p>
+        <p style="flex: 1;"><img align="center" src="https://github-readme-stats.vercel.app/api?username=andu2023&show_icons=true&locale=en" alt="andu2023" /></p>
+    </div>
     <p style="flex: 1; text-align: center;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andu2023&" alt="andu2023" /></p>
+</div>le="flex: 1; text-align: center;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andu2023&" alt="andu2023" /></p>
   </div>
 </div>
