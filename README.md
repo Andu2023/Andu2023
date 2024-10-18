@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andualem Assefa</h1>
 
 <p align="left" style="display: flex; gap: 10px;"> <!-- Flexbox for spacing -->
-  <a href="https://linkedin.com/in/andualem-assefa" target="blank" style="width: 90px; display: flex; justify-content: center;">
+  <a href="https://linkedin.com/in/andualem-assefa" target="blank" style="width: 1500px; display: flex; justify-content: center;">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andualem-assefa" height="30" width="40" />
   </a>
   <a href="https://instagram.com/andy2023use" target="blank" style="width: 90px; display: flex; justify-content: center;">
@@ -80,7 +80,5 @@
         <p style="flex: 1;"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=andu2023&show_icons=true&locale=en&layout=compact" alt="andu2023" /></p>
         <p style="flex: 1;"><img align="center" src="https://github-readme-stats.vercel.app/api?username=andu2023&show_icons=true&locale=en" alt="andu2023" /></p>
     </div>
-    <p style="flex: 1; text-align: center;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andu2023&" alt="andu2023" /></p>
-</div>le="flex: 1; text-align: center;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andu2023&" alt="andu2023" /></p>
   </div>
 </div>
