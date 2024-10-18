@@ -2,15 +2,22 @@
 
 <p align="left">
   <a href="https://linkedin.com/in/andualem-assefa" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="70" />
+    <button style="width: 80px; background-color: #0077B5; color: white; border: none; border-radius: 5px; cursor: pointer;">
+      LinkedIn
+    </button>
   </a>
   <a href="https://instagram.com/andy2023use" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="70" />
+    <button style="width: 80px; background-color: #E1306C; color: white; border: none; border-radius: 5px; cursor: pointer;">
+      Instagram
+    </button>
   </a>
   <a href="mailto:andy2023user@gmail.com" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/email.png" alt="Email" height="30" width="80" />
+    <button style="width: 80px; background-color: #D14836; color: white; border: none; border-radius: 5px; cursor: pointer;">
+      Email
+    </button>
   </a>
 </p>
+
 
 <h3 style="font-family: Arial, sans-serif; font-weight: bold; text-align: center; margin-left: 0; margin-right: 0;">
   I'm a Full Stack Developer with a passion for building scalable, efficient, 
